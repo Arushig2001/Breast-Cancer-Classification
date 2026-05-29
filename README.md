@@ -81,6 +81,11 @@ Example confusion matrix:
  [ 1 71]]
 ```
 
+# Confusion Matrix Visualization
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+
 Interpretation:
 
 * 40 malignant tumors correctly predicted
